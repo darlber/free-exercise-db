@@ -1,4 +1,6 @@
-[
+{
+  "version": 1,
+  "exercises":[
   {
     "name": "3/4 Sit-Up",
     "force": "pull",
@@ -22615,3 +22617,4 @@
     "id": "Zottman_Preacher_Curl"
   }
 ]
+}
